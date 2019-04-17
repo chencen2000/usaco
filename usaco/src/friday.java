@@ -39,6 +39,7 @@ public class friday {
 				out.print(" ");
 			out.print(result[i]);
 		}
+		out.println();
 		out.close();
 		f.close();
 	}
