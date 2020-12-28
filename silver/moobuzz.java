@@ -1,3 +1,7 @@
+/*
+* USACO 2019 December Contest, Silver
+* Problem 1. MooBuzz
+*/
 import java.util.*;
 import java.io.*;
 public class moobuzz {
